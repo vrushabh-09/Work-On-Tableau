@@ -1,5 +1,5 @@
 # Work_On_Tableau
-A curated collection of interactive Tableau dashboards by me, covering real-world data analysis across domains like Finance, Healthcare, Education, and more. Each project is designed to showcase insights through clean visuals, dynamic filters, and engaging data stories. .twbx files included for exploration and reuse.
+A curated collection of interactive Tableau dashboards by me, covering real-world data analysis across various domains. Each project is designed to showcase insights through clean visuals, dynamic filters, and engaging data stories. .twbx files included for exploration and reuse.
 📊 Work On Tableau
 
 Welcome to my collection of Tableau dashboards created using real-world datasets. Each .twbx file represents an interactive data story built for insights and clarity.
